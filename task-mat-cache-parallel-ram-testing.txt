@@ -1,0 +1,8 @@
+Runtime of the parallel implementation
+
+Multiprocessing time: 8.825809240341187 seconds
+Multithreading time: 23.936142444610596 seconds
+
+Runtime of non-parallel implementation 
+
+Sequential processing time: 19.528937101364136 seconds
